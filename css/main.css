@@ -1,1 +1,10 @@
 /*Hoja de estilos*/
+
+#enviroment {
+    display: block;
+    margin: 0 auto;
+}
+
+#background {
+    opacity: 0.3;
+}
